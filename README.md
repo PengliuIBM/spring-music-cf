@@ -1,4 +1,7 @@
 Spring Music - Peng
+
+please refer to latest of spring-music https://github.com/making/spring-music
+include set new JDK-JRE 11,17 in manifest file.
 ============
 
 This is a sample application for using database services on [Cloud Foundry](http://cloudfoundry.org) with the [Spring Framework](http://spring.io) and [Spring Boot](http://projects.spring.io/spring-boot/).
